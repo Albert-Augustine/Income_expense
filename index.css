@@ -1,0 +1,15 @@
+.main {
+  display: flex;
+}
+.expense_main {
+  margin-left: 16rem;
+  margin-top: 8rem;
+}
+.income_main {
+  margin-left: 11rem;
+  margin-top: 8rem;
+}
+.answer {
+  margin-top: 10rem;
+  margin-left: 29rem;
+}
